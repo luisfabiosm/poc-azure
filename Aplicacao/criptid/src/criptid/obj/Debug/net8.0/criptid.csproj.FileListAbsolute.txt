@@ -1,0 +1,11 @@
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\bin\Debug\net8.0\criptid.deps.json
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\bin\Debug\net8.0\criptid.dll
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\bin\Debug\net8.0\criptid.pdb
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\criptid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\criptid.AssemblyInfoInputs.cache
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\criptid.AssemblyInfo.cs
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\criptid.csproj.CoreCompileInputs.cache
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\criptid.dll
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\refint\criptid.dll
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\criptid.pdb
+D:\Fabio\BackSide\Projeto\POC-Agendamento\Aplicacao\criptid\src\criptid\obj\Debug\net8.0\ref\criptid.dll

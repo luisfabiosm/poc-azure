@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|d:\\fabio\\backside\\projeto\\poc-agendamento\\aplicacao\\criptid\\src\\criptid\\cript\\encriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|solutionrelative:src\\criptid\\cript\\encriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|d:\\fabio\\backside\\projeto\\poc-agendamento\\aplicacao\\criptid\\src\\criptid\\app\\appencriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|solutionrelative:src\\criptid\\app\\appencriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|d:\\fabio\\backside\\projeto\\poc-agendamento\\aplicacao\\criptid\\src\\criptid\\account\\accountencriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|solutionrelative:src\\criptid\\account\\accountencriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D90B5C-AD89-42DC-A2BA-88C749DDB68C}|src\\teste-cript\\teste-cript.csproj|d:\\fabio\\backside\\projeto\\poc-agendamento\\aplicacao\\criptid\\src\\teste-cript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D90B5C-AD89-42DC-A2BA-88C749DDB68C}|src\\teste-cript\\teste-cript.csproj|solutionrelative:src\\teste-cript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|d:\\fabio\\backside\\projeto\\poc-agendamento\\aplicacao\\criptid\\src\\criptid\\global\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33C2521-EA62-42AF-9868-0ECD8294FE61}|src\\criptid\\criptid.csproj|solutionrelative:src\\criptid\\global\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\teste-cript\\Program.cs",
+              "RelativeDocumentMoniker": "src\\teste-cript\\Program.cs",
+              "ToolTip": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\teste-cript\\Program.cs",
+              "RelativeToolTip": "src\\teste-cript\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:25:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppEncriptor.cs",
+              "DocumentMoniker": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\App\\AppEncriptor.cs",
+              "RelativeDocumentMoniker": "src\\criptid\\App\\AppEncriptor.cs",
+              "ToolTip": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\App\\AppEncriptor.cs",
+              "RelativeToolTip": "src\\criptid\\App\\AppEncriptor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:23:21.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountEncriptor.cs",
+              "DocumentMoniker": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\Account\\AccountEncriptor.cs",
+              "RelativeDocumentMoniker": "src\\criptid\\Account\\AccountEncriptor.cs",
+              "ToolTip": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\Account\\AccountEncriptor.cs",
+              "RelativeToolTip": "src\\criptid\\Account\\AccountEncriptor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:42:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encriptor.cs",
+              "DocumentMoniker": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\Cript\\Encriptor.cs",
+              "RelativeDocumentMoniker": "src\\criptid\\Cript\\Encriptor.cs",
+              "ToolTip": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\Cript\\Encriptor.cs",
+              "RelativeToolTip": "src\\criptid\\Cript\\Encriptor.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:32:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Secret.cs",
+              "DocumentMoniker": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\Global\\Secret.cs",
+              "RelativeDocumentMoniker": "src\\criptid\\Global\\Secret.cs",
+              "ToolTip": "D:\\Fabio\\BackSide\\Projeto\\POC-Agendamento\\Aplicacao\\criptid\\src\\criptid\\Global\\Secret.cs",
+              "RelativeToolTip": "src\\criptid\\Global\\Secret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:26:57.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
